@@ -1,5 +1,10 @@
 
-## Advance Script with Privacy Filter TG-God 2.0 
+                                                     
+                                                                                                                       
+ 
+                
+
+- All in One Advance and safe Script  For Boost your Telegram Channel or Groups.
 
 
  ## There are 50+ options in this Script. All features are described below
