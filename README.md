@@ -47,6 +47,7 @@ Install Termux from f-driod and Open Termux  App
 Run all the command in termux
 
 👉  termux-setup-storage 
+
 👉  apt update && apt upgrade && apt install python && pkg install git && pip install colorama && cd /sdcard && git clone https://github.com/sandippshah/TG-God-2.0 && cd TG-God-2.0 
 
 [ Edit config.ini from your file manager or any third party text editor application.
