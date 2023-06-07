@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b> --.</b>
+  <b> TG-GOD-2.0 </b>
 </h1>
 
 
