@@ -1,8 +1,8 @@
 
-## Advance Script with Privacy Filter TG-God 2.0
+## Advance Script with Privacy Filter TG-God 2.0 
 
 
- There are 50+ options in this Script. All features are described below
+ ## There are 50+ options in this Script. All features are described below
 
 - Login :- Using this option you can login your telegran account
 - Banfilter + remover :- This filter can remove your banned account
@@ -43,11 +43,11 @@
 Install Termux from f-driod and Open Termux  App 
 
 Run all the command in termux
--    
+-  RUN COMMAND
 ```
 termux-setup-storage 
 ```
--   
+- RUN COMMAND
 ```
 apt update && apt upgrade && apt install python && pkg install git && pip install colorama && cd /sdcard && git clone https://github.com/sandippshah/TG-God-2.0 && cd TG-God-2.0 
 ```
@@ -63,26 +63,26 @@ All are explained here
 
 [ Edit phone.csv from your file manager or any third party text editor application.
 and add your all numbers which will be use in members adding recommendation for 15-20 accounts but u can use your biggest.]
--   
+- RUN COMMAND
 ```
 python3 setup.py
 ```
- (Then choose ( 1 ) Setup Script, After installation choose ( 2 ) Do Exit)
- -  
+ ( Then choose ( 1 ) Setup Script, After installation choose ( 2 ) Do Exit)
+ - RUN COMMAND
 ```
 python3 god.py
 ```
- (Then choose 1 to login your all accounts, its start login your all telegram accounts one by one, after successful logins exit script.)
- - 
+ ( Then choose 1 to login your all accounts, its start login your all telegram accounts one by one, after successful logins exit script.)
+ - RUN COMMAND
 ```
 python3 god.py
 ```
- ( Then choose 51 simple scraper to scrap all group, its scrap all group members, maximum 100k, after scraping exit a script. )
- -  
+ ( Then choose 51 simple scraper to scrap all group, its scrap all group members, maximum 100k, after scraping exit a script. )
+ - RUN COMMAND
 ```
 python3 god.py
 ```
-  ( Then choose 53 simple adder to add all members in your group, its starts adding members one by one via all logined accounts.)
+  ( Then choose 53 simple adder to add all members in your group, its starts adding members one by one via all logined accounts.)
   
   
 Now all Process is completed.
