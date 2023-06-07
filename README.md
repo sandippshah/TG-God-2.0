@@ -53,7 +53,7 @@ termux-setup-storage
 ```
 - RUN COMMAND
 ```
-apt update && apt upgrade && apt install python && pkg install git && pip install colorama && cd /sdcard && git clone https://github.com/sandippshah/TG-God-2.0 && cd TG-God-2.0 
+apt update && apt upgrade && apt install python && pkg install git && pip install colorama && cd /sdcard && git clone https://github.com/sandippshah/TG-God-2.0 && cd TG-God-2.0 && ls
 ```
 [ Edit config.ini from your file manager or any third party text editor application.
 All are explained here
