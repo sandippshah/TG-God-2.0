@@ -1,4 +1,7 @@
-                      - 2.0
+<h1 align="center">
+  <b> --.</b>
+</h1>
+
 
 - All in One Advance and safe Script  For Boost your Telegram Channel or Groups.
 
