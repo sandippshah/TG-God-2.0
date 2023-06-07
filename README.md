@@ -1,8 +1,4 @@
-
-                                                     
-                                                                                                                       
- 
-                
+                      - 2.0
 
 - All in One Advance and safe Script  For Boost your Telegram Channel or Groups.
 
